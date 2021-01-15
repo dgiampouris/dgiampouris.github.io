@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dimitrios Giampouris</title>
+    <link>https://dgiab.org/posts/</link>
+    <description>Recent content in Posts on Dimitrios Giampouris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 18:20:58 +0100</lastBuildDate>
+    
+	<atom:link href="https://dgiab.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://dgiab.org/posts/welcome/</link>
+      <pubDate>Fri, 15 Jan 2021 18:20:58 +0100</pubDate>
+      
+      <guid>https://dgiab.org/posts/welcome/</guid>
+      <description>This is my personal website. I will be posting bug bounty write-ups, coding related posts and whatever else I&amp;rsquo;m curious about at any given time.</description>
+    </item>
+    
+  </channel>
+</rss>
