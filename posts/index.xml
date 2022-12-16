@@ -6,10 +6,16 @@
     <description>Recent content in Posts on Dimitrios Giampouris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jan 2021 18:20:58 +0100</lastBuildDate>
-    
-	<atom:link href="https://dgiab.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://dgiab.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Η Ανατομία ενός Ατυχήματος</title>
+      <link>https://dgiab.org/posts/anatomy-of-an-accident/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://dgiab.org/posts/anatomy-of-an-accident/</guid>
+      <description>Το ατύχημα είναι μια έννοια που εμφανίζεται συχνά στις ζωές μας. Το ορίζουμε ως ένα δυσάρεστο γεγονός από ατυχία. Συνεπώς, το βασίζουμε στην τύχη βάσει του ορισμού και της ετυμολογίας καθώς η λέξη αποτελείται από το “α” στερητικό + “τύχη”, ένα γεγονός που στερείται τύχης δηλαδή.
+Τι είναι τύχη στην προκειμένη περίπτωση όμως; Ο μόνος ορισμός που είμαι διατεθειμένος να δεχτώ είναι αυτός της μαθηματικής πιθανότητας. Το μέτρο της προσδοκίας ότι ένα ενδεχόμενο θα συμβεί.</description>
+    </item>
     
     <item>
       <title>Welcome</title>
